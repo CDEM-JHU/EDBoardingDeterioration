@@ -14,4 +14,4 @@ IcuOnlyUpgrades.do - This do-file examines clinical deteriorations stratified by
 
 
 
-More information about the Center for Data Science in Emergency Medicine at Johns Hopkins University may be found at [Center for Data Science in Emergency Medicine Website](https://cdem.jh.edu/)
+More information about the Center for Data Science in Emergency Medicine at Johns Hopkins University may be found at [our official website](https://cdem.jh.edu/)
