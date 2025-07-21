@@ -1,7 +1,7 @@
 # ED Boarding Deterioration
 
 
-*Author: Nicholas Rizer*
+*Author: * [Nicholas Rizer](mailto:NRizer@som.umaryland.edu?subject=[GitHub]%20Source%20Han%20Sans)
 
 
 This is a repository of analytic code to evaluate escalations in level of care for boarding Emergency Department patients admitted to a medicine or medicine subspeciality level of care. The analyses were conducted in STATA v18 SE. Below is a brief description of each do-file.
