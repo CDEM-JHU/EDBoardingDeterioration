@@ -11,3 +11,7 @@ DataAnalysis.do - This do-file  performs the analyses to evaluate the incidence 
 LocaitonSubanalysis.do - This do-file performs the logistic regression analysis performed on all boarders at each admission hospital. 
 SensiAnalysis.do. - Several logistic regression analyses of using more liberal or conservative  thresholds for "normal" laboratory values. 
 IcuOnlyUpgrades.do - This do-file examines clinical deteriorations stratified by those going to the ICU or IMC alone, including incidence, morality, and risk factor analysis using logistic regression. 
+
+
+
+More information about the Center for Data Science in Emergency Medicine at Johns Hopkins University may be found at [Center for Data Science in Emergency Medicine Website](https://cdem.jh.edu/)
